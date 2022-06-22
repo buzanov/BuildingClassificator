@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "ru.itis.buzanov.data.processing",
+      "type": "java.lang.String",
+      "description": "Description for ru.itis.buzanov.data.processing."
+  }
+] }
